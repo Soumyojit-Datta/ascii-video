@@ -63,5 +63,6 @@ This program captures live video from your webcam and converts each frame into c
 - This program is designed to run in terminals that support ANSI escape codes. Some terminals may not fully support colored output.
 - Performance may vary based on system capabilities and the webcam's frame rate.
 
-## Example Output
+## License
 
+This project is licensed under the MIT License. Feel free to use and modify it.
